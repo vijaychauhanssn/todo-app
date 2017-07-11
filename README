@@ -1,0 +1,7 @@
+A Simple Guide to Navigation in Ionic 2
+We are already using navigation...
+Before we start writing any code, I want to point out that we are actually already using navigation in the app to load HomePage.
+
+Have a look in your app.component.ts file and you'll see the following lines of code:
+
+
